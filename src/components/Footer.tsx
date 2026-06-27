@@ -6,7 +6,7 @@ export default function Footer() {
           Blessing.
         </span>
         <p style={{ fontFamily: "var(--font-mono)", color: "#8B949E", fontSize: "0.75rem" }}>
-          &copy; {new Date().getFullYear()} Blessing. Built with Next.js & Tailwind CSS.
+          &copy; {new Date().getFullYear()} Blessing. Building scalable, user-centric digital solutions and specialized software architecture.
         </p>
         <div style={{ display: "flex", gap: "1.5rem" }}>
           <a href="https://github.com" target="_blank" style={{ fontFamily: "var(--font-mono)", color: "#8B949E", fontSize: "0.75rem", textDecoration: "none" }}>GitHub</a>
